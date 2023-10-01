@@ -1,4 +1,4 @@
-# Hello world! (・・)ノ
+## Hello world! (・・)ノ
 
 
 **Hi, I'm Sofia,** a Computer Science student at the University of Colorado at Boulder.
